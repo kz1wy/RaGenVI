@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "context": "Nguyên tắc suy đoán vô tội là nguyên tắc cơ bản trong pháp luật hình sự, theo đó một người bị cáo buộc phạm tội được coi là vô tội cho đến khi tội của họ được chứng minh một cách hợp pháp trước tòa án.",
+        "questions": {
+            "beam_search": [
+                "suy đoán vô tội là gì"
+            ],
+            "sampling": [
+                "định nghĩa lý do suy đoán vô tội",
+                "một người đã phạm tội được coi là vô tội"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "context": "Hợp đồng thương mại là một thỏa thuận pháp lý giữa hai hoặc nhiều bên liên quan đến việc trao đổi hàng hóa, dịch vụ, hoặc tài sản. Các điều khoản của hợp đồng phải rõ ràng và chi tiết để tránh tranh chấp.",
+        "questions": {
+            "beam_search": [
+                "hợp đồng thương mại là gì"
+            ],
+            "sampling": [
+                "xác định các thỏa thuận thương mại",
+                "ý nghĩa hợp đồng thương mại"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "context": "Bảo vệ quyền sở hữu trí tuệ bao gồm quyền tác giả, bằng sáng chế, nhãn hiệu và bí mật kinh doanh. Mỗi loại quyền có các quy định pháp lý cụ thể nhằm bảo vệ tài sản trí tuệ của cá nhân và doanh nghiệp.",
+        "questions": {
+            "beam_search": [
+                "các loại quyền sở hữu trí tuệ"
+            ],
+            "sampling": [
+                "loại quyền nào bảo vệ nhãn hiệu",
+                "loại quyền nào là quyền sở hữu trí tuệ"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "context": "Quyền công dân bao gồm các quyền cơ bản như quyền bầu cử, quyền tự do ngôn luận, và quyền được bảo vệ bởi pháp luật. Mỗi quốc gia có hệ thống quy định riêng để bảo vệ và thực thi các quyền này.",
+        "questions": {
+            "beam_search": [
+                "quyền công dân là gì"
+            ],
+            "sampling": [
+                "những gì phải có trong quyền công dân",
+                "quyền công dân là gì"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "context": "Luật lao động quy định các quyền và nghĩa vụ của người lao động và người sử dụng lao động. Các vấn đề như lương tối thiểu, giờ làm việc, và điều kiện làm việc an toàn đều được điều chỉnh bởi luật lao động.",
+        "questions": {
+            "beam_search": [
+                "luật lao động quy định các quyền và nghĩa vụ"
+            ],
+            "sampling": [
+                "tại sao bạn lại sử dụng luật lao động",
+                "luật lao động quy định cái gì"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "context": "Luật hôn nhân và gia đình điều chỉnh các vấn đề liên quan đến kết hôn, ly hôn, quyền nuôi con, và chia tài sản chung. Pháp luật thường yêu cầu việc kết hôn phải được thực hiện một cách tự nguyện và công bằng.",
+        "questions": {
+            "beam_search": [
+                "luật hôn nhân và gia đình là gì"
+            ],
+            "sampling": [
+                "luật hôn nhân và gia đình điều chỉnh những gì",
+                "luật hôn nhân là gì"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "context": "Pháp luật quốc tế bao gồm các quy tắc và hiệp định giữa các quốc gia nhằm điều chỉnh các mối quan hệ toàn cầu. Các lĩnh vực như luật biển, luật chiến tranh và luật nhân quyền thường nằm trong phạm vi của pháp luật quốc tế.",
+        "questions": {
+            "beam_search": [
+                "định nghĩa pháp luật quốc tế"
+            ],
+            "sampling": [
+                "pháp luật quốc tế là gì",
+                "pháp luật của chúng tôi định nghĩa"
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "context": "Nguyên tắc phân quyền là một nguyên tắc cơ bản trong hệ thống pháp luật của nhiều quốc gia dân chủ, trong đó quyền lực được chia thành ba nhánh: lập pháp, hành pháp và tư pháp, mỗi nhánh có chức năng và trách nhiệm riêng.",
+        "questions": {
+            "beam_search": [
+                "nguyên tắc phân quyền là gì"
+            ],
+            "sampling": [
+                "một số nguyên tắc cơ bản trong sự phân quyền trong hệ thống pháp luật là gì",
+                "ba yếu tố liên quan đến hệ thống pháp luật phân quyền là gì?"
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "context": "Tòa án Hiến pháp là cơ quan tư pháp có nhiệm vụ giám sát và bảo vệ hiến pháp của một quốc gia. Tòa án này có quyền tuyên bố một đạo luật hoặc quyết định hành chính vi hiến nếu nó trái với hiến pháp.",
+        "questions": {
+            "beam_search": [
+                "tòa án hiến pháp là gì"
+            ],
+            "sampling": [
+                "tòa án hiến pháp làm gì",
+                "tòa án hiến pháp làm gì"
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "context": "Luật hình sự quy định các hành vi bị coi là tội phạm và hình phạt tương ứng. Mục tiêu của luật hình sự là bảo vệ xã hội khỏi những hành vi gây hại và duy trì trật tự công cộng.",
+        "questions": {
+            "beam_search": [
+                "mục đích của luật hình sự là gì"
+            ],
+            "sampling": [
+                "luật hình sự quy định điều gì",
+                "mục tiêu của luật hình sự là gì"
+            ]
+        }
+    }
+]

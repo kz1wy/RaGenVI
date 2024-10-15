@@ -91,7 +91,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Question Generation")
     parser.add_argument("--model_name", default="doc2query/msmarco-vietnamese-mt5-base-v1", help="Model name")
     parser.add_argument("--input_path", default="data/raw/law_context_test.json", help="Input data path")
-    parser.add_argument("--output_path", default="data/processed/question_generation.json", help="Output data path")
+    parser.add_argument("--output_path", default="data/processed/context_question.json", help="Output data path")
 
     args = parser.parse_args()
     main(args)
